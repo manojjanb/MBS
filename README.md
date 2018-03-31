@@ -1,4 +1,4 @@
-# MBS
+# Uottawa ELG2336 Project: Weather Machine
 Welcome to Blake and Mano's Weather Machine Website Website
 
 
