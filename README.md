@@ -1,8 +1,15 @@
-# Uottawa ELG2336
-Welcome to Blake and Mano's Weather Machine Website Website
+# Uottawa ELG2336 Project
+#Weather Machine
+Authors: Blake Wesby
+         Manojjan Berinpalingam
 
 
 The current Windspeed is:
+
+
+
+
+
 
 
 The Current direction of the Wind is:
