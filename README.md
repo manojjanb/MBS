@@ -1,7 +1,8 @@
 # Uottawa ELG2336 Project
 Weather Machine
-Authors: Blake Wesby
-         Manojjan Berinpalingam
+Authors
+Blake Wesby
+Manojjan Berinpalingam
 
 
 The current Windspeed is:
