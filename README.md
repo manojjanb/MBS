@@ -1,5 +1,5 @@
 # Uottawa ELG2336 Project
-#Weather Machine
+Weather Machine
 Authors: Blake Wesby
          Manojjan Berinpalingam
 
