@@ -1,32 +1,6 @@
 # Uottawa ELG2336 Project
 Weather Machine
 
-use strict;
-use warnings;
-use IO::Socket::SSL;
-use Mail::POP3Client;
-
-my $username  = 'elgweathermachine@gmail.com';
-my $password  = 'westby23';
-
-my $mailhost  = 'pop.gmail.com';
-my $port      = '995';
-
-my $pop = new Mail::POP3Client(
-            USER     => $username,
-            PASSWORD => $password,
-            HOST     => $mailhost,
-            PORT     => $port,
-            USESSL   => 'true',
-            DEBUG    => 0,
-);
-
-for (my $i = 1; $i <= $pop->Count(); $i++) {
-  my $message = $pop->Body($i);
-  ...
-}
-
-$pop->Close();
 
 The current Windspeed is:
 
